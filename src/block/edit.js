@@ -2,10 +2,7 @@
  * External dependencies
  */
 import classnames from 'classnames';
-import animationsClasses from './animations';
-import transitionTypes from './transitions';
-import buttonShapes from './shapes';
-import buttonSizes from './sizes';
+import { animationsClasses, transitionTypes, buttonShapes, buttonSizes } from './data';
 
 /**
  * WordPress dependencies
