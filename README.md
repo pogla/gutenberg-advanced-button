@@ -2,6 +2,14 @@
 
 Lets you add a fully customizable button block in Gutenberg editor.
 
+## Description
+
+The plugin enables user to add buttons with advanced settings in Gutenberg editor. This buttons is similar to default Gutenberg button but it has many extra settings.
+
+It is possible to add fancy hover animations such as grow, shrink, wobble, float... There are also settings for hover background, hover background transition, border radius, button size.
+
+It is possible to add custom styles for button or button's hover state. It is also possible to set the button to open in new tab.
+
 ## Contribution
 
 Anyone is welcome to contribute or submit issues in this repo.
