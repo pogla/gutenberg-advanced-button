@@ -28,5 +28,19 @@ It is possible to add custom styles for button or button's hover state. It is al
 1. Gutenberg Advanced Button Adding a Button
 2. Gutenberg Advanced Button Screenshot
 
+== Frequently Asked Questions ==
+
+= Can I contribute? =
+
+Yes, you can contribute in [GitHub repository](https://github.com/pogla/gutenberg-advanced-button).
+
+= I found a bug. What can I do? =
+
+If you find a bug, please report it to the [Github repo](https://github.com/pogla/gutenberg-advanced-button/issues).
+
+= I want this plugin to do more! =
+
+If you want a certain feature to be added, please add issue to [Github repo](https://github.com/pogla/gutenberg-advanced-button/issues).
+
 = 1.0 =
 Initial release

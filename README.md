@@ -2,6 +2,10 @@
 
 Lets you add a fully customizable button block in Gutenberg editor.
 
+## Contribution
+
+Anyone is welcome to contribute or submit issues in this repo.
+
 ## Development
 
 This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
