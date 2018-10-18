@@ -11,7 +11,7 @@ Lets you add a fully customizable button block in Gutenberg editor.
 
 == Description ==
 
-The plugin enables user to add buttons with advanced settings in Gutenberg editor. This buttons is similar to default Gutenberg button but it has many extra settings.
+The plugin enables user to add buttons with advanced settings in Gutenberg editor. This button is similar to default Gutenberg button but it has many extra settings.
 
 It is possible to add fancy hover animations such as grow, shrink, wobble, float... There are also settings for hover background, hover background transition, border radius, button size.
 
@@ -36,11 +36,11 @@ Yes, you can contribute in [GitHub repository](https://github.com/pogla/gutenber
 
 = I found a bug. What can I do? =
 
-If you find a bug, please report it to the [Github repo](https://github.com/pogla/gutenberg-advanced-button/issues).
+If you find a bug, please report it to the [Github repository](https://github.com/pogla/gutenberg-advanced-button/issues).
 
 = I want this plugin to do more! =
 
-If you want a certain feature to be added, please add issue to [Github repo](https://github.com/pogla/gutenberg-advanced-button/issues).
+If you want a certain feature to be added, please add issue to [Github repository](https://github.com/pogla/gutenberg-advanced-button/issues).
 
 = 1.0 =
 Initial release
