@@ -1,4 +1,4 @@
-# Gutenberg Advanced Button
+# Advanced Button Block
 
 Lets you add a fully customizable button block in Gutenberg editor.
 
@@ -9,6 +9,8 @@ The plugin enables user to add buttons with advanced settings in Gutenberg edito
 It is possible to add fancy hover animations such as grow, shrink, wobble, float... There are also settings for hover background, hover background transition, border radius, button size.
 
 It is possible to add custom styles for button or button's hover state. It is also possible to set the button to open in new tab.
+
+[Advanced Button Block](https://wordpress.org/plugins/advanced-button-block/) on WordPress.org.
 
 ## Contribution
 
