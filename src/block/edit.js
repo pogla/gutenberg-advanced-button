@@ -135,6 +135,7 @@ class AnimationButtonEdit extends Component {
 						style={ buttonStyles }
 						keepPlaceholderOnFocus
 						target={ opensInNewWindow ? '_blank' : '_self' }
+						rel="noopener noreferrer"
 					/>
 					{/* Sidebar Settings */}
 					<InspectorControls>

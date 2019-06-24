@@ -169,6 +169,7 @@ const settings = {
 					style={ buttonStyles }
 					value={ text }
 					target={ opensInNewWindow ? '_blank' : '_self' }
+					rel="noopener noreferrer"
 				/>
 			</div>
 		);

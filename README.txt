@@ -1,9 +1,9 @@
-=== Gutenberg Advanced Button ===
+=== Advanced Button Block ===
 Contributors: poglaa
 Donate link: https://maticpogladic.com/
 Tags: Gutenberg, Button, Animations, Content, Conversions, Editor
 Requires at least: 4.2
-Tested up to: 4.9.8
+Tested up to: 5.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,10 @@ If you find a bug, please report it to the [Github repository](https://github.co
 = I want this plugin to do more! =
 
 If you want a certain feature to be added, please add issue to [Github repository](https://github.com/pogla/gutenberg-advanced-button/issues).
+
+= 1.0.1 =
+* Fix: This block contains unexpected or invalid content
+* Fix: Add dependencies to wp_enqueue_script
 
 = 1.0 =
 Initial release
