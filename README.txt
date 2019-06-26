@@ -1,7 +1,7 @@
 === Advanced Button Block ===
 Contributors: poglaa
 Donate link: https://maticpogladic.com/
-Tags: Gutenberg, Button, Animations, Content, Conversions, Editor
+Tags: Gutenberg, Button, Animations, Content, Conversions, Editor, Block, Custom Button Block
 Requires at least: 4.2
 Tested up to: 5.2.2
 License: GPLv2 or later
