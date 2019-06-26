@@ -42,6 +42,9 @@ If you find a bug, please report it to the [Github repository](https://github.co
 
 If you want a certain feature to be added, please add issue to [Github repository](https://github.com/pogla/gutenberg-advanced-button/issues).
 
+= 1.0.2 =
+* Fix css dependency
+
 = 1.0.1 =
 * Fix: This block contains unexpected or invalid content
 * Fix: Add dependencies to wp_enqueue_script
